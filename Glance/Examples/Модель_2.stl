@@ -1,0 +1,226 @@
+solid Модель_2.stl_Glance_2_2_2
+  facet normal -4.15249316594995E-0002  9.96598359827989E-0001 -7.11855971305706E-0002
+    outer loop
+      vertex -33 -1 23
+      vertex -9 0 23
+      vertex -9 -1 9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex -33 -1 23
+      vertex -9 -1 9
+      vertex -33 -1 9
+    endloop
+  endfacet
+  facet normal -1.84514093436391E-0002  9.96376104556513E-0001 -8.30313420463761E-0002
+    outer loop
+      vertex -9 0 23
+      vertex 0 1 33
+      vertex 0 -1 9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  9.97458699830735E-0001 -7.12470499879096E-0002
+    outer loop
+      vertex -9 0 23
+      vertex 0 -1 9
+      vertex -9 -1 9
+    endloop
+  endfacet
+  facet normal  3.16494921360485E-0002  9.96959002285526E-0001 -7.12113573061090E-0002
+    outer loop
+      vertex 0 1 33
+      vertex 9 0 23
+      vertex 9 -1 9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  9.96545758244880E-0001 -8.30454798537400E-0002
+    outer loop
+      vertex 0 1 33
+      vertex 9 -1 9
+      vertex 0 -1 9
+    endloop
+  endfacet
+  facet normal  4.16305447121813E-0002  9.99133073092352E-0001  0.00000000000000E+0000
+    outer loop
+      vertex 9 0 23
+      vertex 33 -1 23
+      vertex 33 -1 9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  9.97458699830735E-0001 -7.12470499879096E-0002
+    outer loop
+      vertex 9 0 23
+      vertex 33 -1 9
+      vertex 9 -1 9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex -33 -1 9
+      vertex -9 -1 9
+      vertex -9 -1 0
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex -33 -1 9
+      vertex -9 -1 0
+      vertex -43 -1 0
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex -9 -1 9
+      vertex 0 -1 9
+      vertex 0 -1 0
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex -9 -1 9
+      vertex 0 -1 0
+      vertex -9 -1 0
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex 0 -1 9
+      vertex 9 -1 9
+      vertex 9 -1 0
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex 0 -1 9
+      vertex 9 -1 0
+      vertex 0 -1 0
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex 9 -1 9
+      vertex 33 -1 9
+      vertex 43 -1 0
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex 9 -1 9
+      vertex 43 -1 0
+      vertex 9 -1 0
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex -43 -1 0
+      vertex -9 -1 0
+      vertex -9 -1 -9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex -43 -1 0
+      vertex -9 -1 -9
+      vertex -33 -1 -9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex -9 -1 0
+      vertex 0 -1 0
+      vertex 0 -1 -9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex -9 -1 0
+      vertex 0 -1 -9
+      vertex -9 -1 -9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex 0 -1 0
+      vertex 9 -1 0
+      vertex 9 -1 -9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex 0 -1 0
+      vertex 9 -1 -9
+      vertex 0 -1 -9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex 9 -1 0
+      vertex 43 -1 0
+      vertex 33 -1 -9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex 9 -1 0
+      vertex 33 -1 -9
+      vertex 9 -1 -9
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  9.97458699830735E-0001  7.12470499879096E-0002
+    outer loop
+      vertex -33 -1 -9
+      vertex -9 -1 -9
+      vertex -9 0 -23
+    endloop
+  endfacet
+  facet normal -4.16305447121813E-0002  9.99133073092352E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -33 -1 -9
+      vertex -9 0 -23
+      vertex -33 -1 -23
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  9.96545758244880E-0001  8.30454798537400E-0002
+    outer loop
+      vertex -9 -1 -9
+      vertex 0 -1 -9
+      vertex 0 1 -33
+    endloop
+  endfacet
+  facet normal -3.16494921360485E-0002  9.96959002285526E-0001  7.12113573061090E-0002
+    outer loop
+      vertex -9 -1 -9
+      vertex 0 1 -33
+      vertex -9 0 -23
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  9.97458699830735E-0001  7.12470499879096E-0002
+    outer loop
+      vertex 0 -1 -9
+      vertex 9 -1 -9
+      vertex 9 0 -23
+    endloop
+  endfacet
+  facet normal  1.84514093436391E-0002  9.96376104556513E-0001  8.30313420463761E-0002
+    outer loop
+      vertex 0 -1 -9
+      vertex 9 0 -23
+      vertex 0 1 -33
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  1.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex 9 -1 -9
+      vertex 33 -1 -9
+      vertex 33 -1 -23
+    endloop
+  endfacet
+  facet normal  4.15249316594995E-0002  9.96598359827989E-0001  7.11855971305706E-0002
+    outer loop
+      vertex 9 -1 -9
+      vertex 33 -1 -23
+      vertex 9 0 -23
+    endloop
+  endfacet
+endsolid Модель_2.stl_Glance_2_2_2

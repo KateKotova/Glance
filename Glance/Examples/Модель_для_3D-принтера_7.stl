@@ -1,0 +1,590 @@
+solid Модель_для_3D-принтера_7.stl_Glance_2_2_2
+  facet normal  8.48431912417886E-0001 -5.28732930927088E-0001 -2.45922293454460E-0002
+    outer loop
+      vertex -17 -12 0
+      vertex -7 4 1
+      vertex -10 -1 5
+    endloop
+  endfacet
+  facet normal  8.43661487732107E-0001 -5.36875492193159E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -17 -12 0
+      vertex -10 -1 5
+      vertex -17 -12 5
+    endloop
+  endfacet
+  facet normal -8.57492925712544E-0001  5.14495755427527E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -7 4 1
+      vertex -10 -1 5
+      vertex -10 -1 14
+    endloop
+  endfacet
+  facet normal  8.57492925712544E-0001 -5.14495755427527E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -7 4 1
+      vertex -10 -1 14
+      vertex -10 -1 5
+    endloop
+  endfacet
+  facet normal  8.57492925712544E-0001 -5.14495755427527E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -10 -1 5
+      vertex -7 4 1
+      vertex -7 4 14
+    endloop
+  endfacet
+  facet normal  8.57492925712544E-0001 -5.14495755427527E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -10 -1 5
+      vertex -7 4 14
+      vertex -10 -1 14
+    endloop
+  endfacet
+  facet normal  1.78509244208966E-0001 -9.77920207405638E-0001  1.08657800822848E-0001
+    outer loop
+      vertex -7 4 1
+      vertex 7 7 5
+      vertex 7 8 14
+    endloop
+  endfacet
+  facet normal  2.74721127897378E-0001 -9.61523947640823E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -7 4 1
+      vertex 7 8 14
+      vertex -7 4 14
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex 7 7 5
+      vertex -7 4 1
+      vertex 7 7 5
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex 7 7 5
+      vertex 7 7 5
+      vertex 7 8 14
+    endloop
+  endfacet
+  facet normal  5.14851485148515E-0001 -8.31683168316832E-0001  2.07920792079208E-0001
+    outer loop
+      vertex -7 4 1
+      vertex 14 17 1
+      vertex 14 18 5
+    endloop
+  endfacet
+  facet normal  3.07993686194149E-0001 -1.95995982123549E-0001 -9.30980915086859E-0001
+    outer loop
+      vertex -7 4 1
+      vertex 14 18 5
+      vertex 7 7 5
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex 14 17 1
+      vertex 14 17 1
+      vertex 14 17 -4
+    endloop
+  endfacet
+  facet normal  1.00000000000000E+0000  0.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex 14 17 1
+      vertex 14 17 -4
+      vertex 14 18 5
+    endloop
+  endfacet
+  facet normal  3.79016800415377E-0001 -6.12257908363302E-0001  6.93892296145075E-0001
+    outer loop
+      vertex 14 17 1
+      vertex -7 4 1
+      vertex 7 7 -4
+    endloop
+  endfacet
+  facet normal  8.19231920519040E-0001 -5.73462344363328E-0001  0.00000000000000E+0000
+    outer loop
+      vertex 14 17 1
+      vertex 7 7 -4
+      vertex 14 17 -4
+    endloop
+  endfacet
+  facet normal -2.09529088730873E-0001  9.77802414077409E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -7 4 1
+      vertex 7 7 -4
+      vertex 7 7 -13
+    endloop
+  endfacet
+  facet normal  2.09529088730873E-0001 -9.77802414077409E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -7 4 1
+      vertex 7 7 -13
+      vertex 7 7 -4
+    endloop
+  endfacet
+  facet normal  2.32624813620994E-0001 -9.70094967440740E-0001  6.92924976743385E-0002
+    outer loop
+      vertex 7 7 -4
+      vertex -7 4 1
+      vertex -7 3 -13
+    endloop
+  endfacet
+  facet normal  2.74721127897378E-0001 -9.61523947640823E-0001  0.00000000000000E+0000
+    outer loop
+      vertex 7 7 -4
+      vertex -7 3 -13
+      vertex 7 7 -13
+    endloop
+  endfacet
+  facet normal  8.94427190999916E-0001 -4.47213595499958E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -7 4 1
+      vertex -10 -2 -4
+      vertex -10 -2 -13
+    endloop
+  endfacet
+  facet normal  8.56914472224578E-0001 -5.14148683334747E-0001  3.67249059524819E-0002
+    outer loop
+      vertex -7 4 1
+      vertex -10 -2 -13
+      vertex -7 3 -13
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex -10 -2 -4
+      vertex -7 4 1
+      vertex -10 -2 -4
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex -10 -2 -4
+      vertex -10 -2 -4
+      vertex -10 -2 -13
+    endloop
+  endfacet
+  facet normal  8.47998304005088E-0001 -5.29998940003180E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -7 4 1
+      vertex -17 -12 0
+      vertex -17 -12 -4
+    endloop
+  endfacet
+  facet normal  8.03841899203101E-0001 -5.62689329442171E-0001  1.92922055808744E-0001
+    outer loop
+      vertex -7 4 1
+      vertex -17 -12 -4
+      vertex -10 -2 -4
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex -17 -12 0
+      vertex -17 -12 0
+      vertex -17 -12 5
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex -17 -12 0
+      vertex -17 -12 5
+      vertex -17 -12 -4
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000 -1.00000000000000E+0000
+    outer loop
+      vertex -17 -12 5
+      vertex -10 -1 5
+      vertex -7 -6 5
+    endloop
+  endfacet
+  facet normal -1.01418510567422E-0001  1.69030850945703E-0001 -9.80378935485079E-0001
+    outer loop
+      vertex -17 -12 5
+      vertex -7 -6 5
+      vertex -14 -16 4
+    endloop
+  endfacet
+  facet normal  8.57492925712544E-0001  5.14495755427527E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -10 -1 5
+      vertex -10 -1 14
+      vertex -7 -6 14
+    endloop
+  endfacet
+  facet normal  8.57492925712544E-0001  5.14495755427527E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -10 -1 5
+      vertex -7 -6 14
+      vertex -7 -6 5
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000 -1.00000000000000E+0000
+    outer loop
+      vertex -10 -1 14
+      vertex -7 4 14
+      vertex 7 -2 14
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000 -1.00000000000000E+0000
+    outer loop
+      vertex -10 -1 14
+      vertex 7 -2 14
+      vertex -7 -6 14
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000 -1.00000000000000E+0000
+    outer loop
+      vertex -7 4 14
+      vertex 7 8 14
+      vertex 10 3 14
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000 -1.00000000000000E+0000
+    outer loop
+      vertex -7 4 14
+      vertex 10 3 14
+      vertex 7 -2 14
+    endloop
+  endfacet
+  facet normal -8.56095218303024E-0001 -5.13657130981815E-0001  5.70730145535350E-0002
+    outer loop
+      vertex 7 8 14
+      vertex 7 7 5
+      vertex 10 2 5
+    endloop
+  endfacet
+  facet normal -8.56095218303024E-0001 -5.13657130981815E-0001  5.70730145535350E-0002
+    outer loop
+      vertex 7 8 14
+      vertex 10 2 5
+      vertex 10 3 14
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000 -1.00000000000000E+0000
+    outer loop
+      vertex 7 7 5
+      vertex 14 18 5
+      vertex 17 13 5
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000 -1.00000000000000E+0000
+    outer loop
+      vertex 7 7 5
+      vertex 17 13 5
+      vertex 10 2 5
+    endloop
+  endfacet
+  facet normal -8.56095218303024E-0001 -5.13657130981815E-0001  5.70730145535350E-0002
+    outer loop
+      vertex 14 18 5
+      vertex 14 17 -4
+      vertex 17 12 -4
+    endloop
+  endfacet
+  facet normal -8.56095218303024E-0001 -5.13657130981815E-0001  5.70730145535350E-0002
+    outer loop
+      vertex 14 18 5
+      vertex 17 12 -4
+      vertex 17 13 5
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000  1.00000000000000E+0000
+    outer loop
+      vertex 14 17 -4
+      vertex 7 7 -4
+      vertex 10 2 -4
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000  1.00000000000000E+0000
+    outer loop
+      vertex 14 17 -4
+      vertex 10 2 -4
+      vertex 17 12 -4
+    endloop
+  endfacet
+  facet normal -8.57492925712544E-0001 -5.14495755427527E-0001  0.00000000000000E+0000
+    outer loop
+      vertex 7 7 -4
+      vertex 7 7 -13
+      vertex 10 2 -13
+    endloop
+  endfacet
+  facet normal -8.57492925712544E-0001 -5.14495755427527E-0001  0.00000000000000E+0000
+    outer loop
+      vertex 7 7 -4
+      vertex 10 2 -13
+      vertex 10 2 -4
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000  1.00000000000000E+0000
+    outer loop
+      vertex 7 7 -13
+      vertex -7 3 -13
+      vertex 7 -3 -13
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000  1.00000000000000E+0000
+    outer loop
+      vertex 7 7 -13
+      vertex 7 -3 -13
+      vertex 10 2 -13
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000  1.00000000000000E+0000
+    outer loop
+      vertex -7 3 -13
+      vertex -10 -2 -13
+      vertex -7 -7 -13
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000  1.00000000000000E+0000
+    outer loop
+      vertex -7 3 -13
+      vertex -7 -7 -13
+      vertex 7 -3 -13
+    endloop
+  endfacet
+  facet normal  8.57492925712544E-0001  5.14495755427527E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -10 -2 -13
+      vertex -10 -2 -4
+      vertex -7 -7 -4
+    endloop
+  endfacet
+  facet normal  8.57492925712544E-0001  5.14495755427527E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -10 -2 -13
+      vertex -7 -7 -4
+      vertex -7 -7 -13
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000  1.00000000000000E+0000
+    outer loop
+      vertex -10 -2 -4
+      vertex -17 -12 -4
+      vertex -14 -17 -4
+    endloop
+  endfacet
+  facet normal  0.00000000000000E+0000  0.00000000000000E+0000  1.00000000000000E+0000
+    outer loop
+      vertex -10 -2 -4
+      vertex -14 -17 -4
+      vertex -7 -7 -4
+    endloop
+  endfacet
+  facet normal  8.00000000000000E-0001  6.00000000000000E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -17 -12 -4
+      vertex -17 -12 5
+      vertex -14 -16 4
+    endloop
+  endfacet
+  facet normal  8.55725099681116E-0001  5.13435059808670E-0001 -6.41793824760837E-0002
+    outer loop
+      vertex -17 -12 -4
+      vertex -14 -16 4
+      vertex -14 -17 -4
+    endloop
+  endfacet
+  facet normal -3.80802550976229E-0001  3.52062735808212E-0001 -8.55009501248515E-0001
+    outer loop
+      vertex -14 -16 4
+      vertex -7 -6 5
+      vertex 7 -3 0
+    endloop
+  endfacet
+  facet normal -5.43075386641705E-0001  8.14613079962557E-0001 -2.03653269990639E-0001
+    outer loop
+      vertex -14 -16 4
+      vertex 7 -3 0
+      vertex -14 -17 0
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex -7 -6 5
+      vertex -7 -6 14
+      vertex -7 -6 5
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex -7 -6 5
+      vertex -7 -6 5
+      vertex 7 -3 0
+    endloop
+  endfacet
+  facet normal -2.74075483931013E-0001  9.59264193758544E-0001 -6.85188709827532E-0002
+    outer loop
+      vertex -7 -6 14
+      vertex 7 -2 14
+      vertex 7 -3 0
+    endloop
+  endfacet
+  facet normal -2.09529088730873E-0001  9.77802414077409E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -7 -6 14
+      vertex 7 -3 0
+      vertex -7 -6 5
+    endloop
+  endfacet
+  facet normal -8.56095218303024E-0001  5.13657130981815E-0001 -5.70730145535350E-0002
+    outer loop
+      vertex 7 -2 14
+      vertex 10 3 14
+      vertex 10 2 5
+    endloop
+  endfacet
+  facet normal -8.39286284384368E-0001  5.42308060679130E-0001 -3.87362900485093E-0002
+    outer loop
+      vertex 7 -2 14
+      vertex 10 2 5
+      vertex 7 -3 0
+    endloop
+  endfacet
+  facet normal -8.27251832591041E-0001  5.58394986998952E-0001 -6.20438874443281E-0002
+    outer loop
+      vertex 10 3 14
+      vertex 10 2 5
+      vertex 7 -3 0
+    endloop
+  endfacet
+  facet normal  8.27251832591041E-0001 -5.58394986998952E-0001  6.20438874443281E-0002
+    outer loop
+      vertex 10 3 14
+      vertex 7 -3 0
+      vertex 10 2 5
+    endloop
+  endfacet
+  facet normal -8.36163485943815E-0001  5.32104036509701E-0001 -1.33026009127425E-0001
+    outer loop
+      vertex 10 2 5
+      vertex 17 13 5
+      vertex 17 12 1
+    endloop
+  endfacet
+  facet normal -8.28765163422768E-0001  5.56456609726716E-0001 -5.91975116730549E-0002
+    outer loop
+      vertex 10 2 5
+      vertex 17 12 1
+      vertex 7 -3 0
+    endloop
+  endfacet
+  facet normal -1.00000000000000E+0000  0.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex 17 13 5
+      vertex 17 12 -4
+      vertex 17 12 1
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex 17 13 5
+      vertex 17 12 1
+      vertex 17 12 1
+    endloop
+  endfacet
+  facet normal -8.14969942170728E-0001  5.70478959519510E-0001  1.01871242771341E-0001
+    outer loop
+      vertex 17 12 -4
+      vertex 10 2 -4
+      vertex 7 -3 0
+    endloop
+  endfacet
+  facet normal -8.32050294337844E-0001  5.54700196225229E-0001  0.00000000000000E+0000
+    outer loop
+      vertex 17 12 -4
+      vertex 7 -3 0
+      vertex 17 12 1
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex 10 2 -4
+      vertex 10 2 -13
+      vertex 10 2 -4
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex 10 2 -4
+      vertex 10 2 -4
+      vertex 7 -3 0
+    endloop
+  endfacet
+  facet normal -8.57492925712544E-0001  5.14495755427527E-0001  0.00000000000000E+0000
+    outer loop
+      vertex 10 2 -13
+      vertex 7 -3 -13
+      vertex 7 -3 0
+    endloop
+  endfacet
+  facet normal -8.57492925712544E-0001  5.14495755427527E-0001  0.00000000000000E+0000
+    outer loop
+      vertex 10 2 -13
+      vertex 7 -3 0
+      vertex 10 2 -4
+    endloop
+  endfacet
+  facet normal -2.74721127897378E-0001  9.61523947640823E-0001  0.00000000000000E+0000
+    outer loop
+      vertex 7 -3 -13
+      vertex -7 -7 -13
+      vertex -7 -7 -4
+    endloop
+  endfacet
+  facet normal -2.74721127897378E-0001  9.61523947640823E-0001  0.00000000000000E+0000
+    outer loop
+      vertex 7 -3 -13
+      vertex -7 -7 -4
+      vertex 7 -3 0
+    endloop
+  endfacet
+  facet normal -2.74721127897378E-0001  9.61523947640823E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -7 -7 -13
+      vertex -7 -7 -4
+      vertex 7 -3 0
+    endloop
+  endfacet
+  facet normal  2.74721127897378E-0001 -9.61523947640823E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -7 -7 -13
+      vertex 7 -3 0
+      vertex -7 -7 -4
+    endloop
+  endfacet
+  facet normal -8.19231920519040E-0001  5.73462344363328E-0001  0.00000000000000E+0000
+    outer loop
+      vertex -7 -7 -4
+      vertex -14 -17 -4
+      vertex -14 -17 0
+    endloop
+  endfacet
+  facet normal -3.71390676354104E-0001  5.57086014531156E-0001  7.42781352708207E-0001
+    outer loop
+      vertex -7 -7 -4
+      vertex -14 -17 0
+      vertex 7 -3 0
+    endloop
+  endfacet
+  facet normal  1.00000000000000E+0000  0.00000000000000E+0000  0.00000000000000E+0000
+    outer loop
+      vertex -14 -17 -4
+      vertex -14 -16 4
+      vertex -14 -17 0
+    endloop
+  endfacet
+  facet normal                     Nan                     Nan                     Nan
+    outer loop
+      vertex -14 -17 -4
+      vertex -14 -17 0
+      vertex -14 -17 0
+    endloop
+  endfacet
+endsolid Модель_для_3D-принтера_7.stl_Glance_2_2_2
